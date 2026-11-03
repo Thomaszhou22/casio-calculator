@@ -4,6 +4,8 @@ An online recreation of the **Casio fx-991EX ClassWiz** scientific calculator, r
 
 **Try it live:** https://casio-calculator-taupe.vercel.app
 
+**English** | **[中文](README.zh-CN.md)**
+
 ## Tech Stack
 
 - React + TypeScript + Vite
